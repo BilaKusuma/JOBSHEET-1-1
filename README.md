@@ -258,7 +258,15 @@ MAC Receiver 3 (Cantika & Razan) : 30:AE:A4:7A:8F:B8
 Sender (Syauqi & Vania)
 
 
+![image](https://user-images.githubusercontent.com/120068739/209426969-728026f7-7675-4fca-a389-b5a5575aeb5d.png)
+
+
+
 Reciver 1 (Noviantie & Dionysius)
+
+
+![image](https://user-images.githubusercontent.com/120068739/209426835-ed52b5d2-62ce-41d1-b700-79455fb76b17.png)
+
 
 
 Receiver 2 (Hesti & Nabila)
@@ -278,6 +286,10 @@ Matikan salah satu board Receiver, dokumentasikasikan hasilnya, dan buatlah anal
 Sender (Syauqi & Vania)
 
 
+![image](https://user-images.githubusercontent.com/120068739/209426982-89324c23-4e63-4434-a77b-44d3f0974762.png)
+
+
+
 Reciver 1 (Noviantie & Dionysius)
 
 
@@ -289,10 +301,11 @@ Receiver 2 (Hesti & Nabila)
 
 Receiver 3 (Cantika & Razan)
 
-![image](https://user-images.githubusercontent.com/120068739/209104739-5320d115-c16c-45fa-ac9a-68da70ea9065.png)
+
+![image](https://user-images.githubusercontent.com/120068739/209427092-a7f560e3-a485-41fd-82cc-f4343f1982cd.png)
 
 
-b) Mengirim Pesan yang Berbeda Ke Beberapa Board ESP32
+
 
 D. One-Way, Many-to-One Communication
 MAC Sender 1 (Syauqi & Vania) : 24:0A:C4:C5:E2:DC
@@ -302,17 +315,35 @@ MAC Receiver  (Dionysius & Noviantie) : 3C:71:BF:F1:42:70
 
 
 
-Sender 
- 
-
-![image](https://user-images.githubusercontent.com/120068739/209105209-ba04e2d7-25bf-46f4-976f-94f26197636a.png)
+Sender (Syauqi & Vania)
 
 
-Receiver
- 
+![image](https://user-images.githubusercontent.com/120068739/209427124-ca5ea9ff-6cb0-49bb-a8c9-3735641b7343.png)
 
 
-![image](https://user-images.githubusercontent.com/120068739/209105268-b885dc99-eb37-41f0-b82c-5c8be77dbf1e.png)
+
+![image](https://user-images.githubusercontent.com/120068739/209427131-5338e41f-c4c5-4b21-803b-020a23a166bd.png)
+
+
+Reciver 1 (Noviantie & Dionysius)
+
+
+![image](https://user-images.githubusercontent.com/120068739/209426835-ed52b5d2-62ce-41d1-b700-79455fb76b17.png)
+
+
+
+
+Receiver 2 (Hesti & Nabila)
+
+
+![image](https://user-images.githubusercontent.com/120068739/209427202-ae834b8e-2ed7-4812-8293-a76800e4ee74.png)
+
+
+
+Receiver 3 (Cantika & Razan)
+
+
+![image](https://user-images.githubusercontent.com/120068739/209104457-72c1bf40-b216-44c2-9eda-5d93dd58ac20.png)
 
 
 
