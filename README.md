@@ -26,7 +26,8 @@ Aturlah tinggi antena atau peletakan ESP32 pada ground level (menempel tanah), 3
 
 
 
-![image](https://user-images.githubusercontent.com/120068739/209098357-4f9a1269-0824-4f33-8451-2809565b5250.png)
+![image](https://user-images.githubusercontent.com/120068739/209427398-543c916e-9437-4355-9545-f0f159f998e5.png)
+
 
 
 TX - RX Ground 1,2 Meter
